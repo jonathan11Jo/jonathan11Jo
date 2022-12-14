@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jonathan11Jo
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning advance web
-- 💞️ I’m looking to collaborate on web security bug bounty
+- 🌱 I’m currently 
+- 💞️ I’m looking 
 - 📫 How to reach me ...
 
 <!---
